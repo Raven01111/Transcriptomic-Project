@@ -1,3 +1,0 @@
-outcome,rs204993_IPF_beta,rs204993_IPF_se,rs204993_IPF_p,abs_b_AGER_to_IPF,se_b,abs_a_DSPlead_to_AGER,se_a,total_DSP_logOR_FinnGen,abs_share_point,abs_share_upper,status,source,a_p,instrument_p
-FinnGen R13 IPF,0.0329682,0.0342196,0.335332,0.22067319373781363,0.22904946040215987,0.0485455,0.004846938775510205,0.158212,0.0677109860604697,0.24566945084130443,"RUN (NOT RAW: published top hits, alleles unreported; MHC caveat)",gwas-association-downloaded_2026-10-24-accessionId_GCST90859774.tsv,2e-22,5e-164
-GCST009758 (harmonised),,,,,,,,,,,lookup failed: unknown url type: '/content/drive/MyDrive/Transcriptomics /Transcriptomic Project Datasets/GCST009758.h.tsv.gz',gwas-association-downloaded_2026-10-24-accessionId_GCST90859774.tsv,2e-22,5e-164
