@@ -1,7 +1,0 @@
-study,trait,A5_beta,reread_beta,A5_se,reread_se,reproduces_A5
-GCST90475145,bicarbonate,0.02236,0.02236,0.004056,0.004056,True
-GCST90475229,creatinine,-0.02285,-0.02285,0.00391,0.00391,True
-GCST90475511,monocyte fraction,-0.02954,-0.02954,0.004982,0.004982,True
-GCST90475529,neutrophil,0.05275,0.05275,0.004679,0.004679,True
-GCST90475538,neutrophil fraction,0.02952,0.02952,0.004804,0.004804,True
-GCST90480724,white blood cell count,0.04828,0.04828,0.005542,0.005542,True
