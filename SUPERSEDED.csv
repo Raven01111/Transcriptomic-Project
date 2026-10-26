@@ -1,0 +1,12 @@
+file,status
+S5_sex_stratified_verdicts.csv,SUPERSEDED by S5c_corrected_sex_stratified_verdicts.csv
+S5b_final_sex_stratified_verdicts.csv,SUPERSEDED by S5c_corrected_sex_stratified_verdicts.csv
+G2_snp_x_sex_interaction_raw.csv,SUPERSEDED by S5c_corrected_sex_stratified_verdicts.csv
+S5c_corrected_sex_stratified_verdicts.csv,SUPERSEDED by S5d_sex_stratified_verdicts.csv
+S5d_sex_stratified_verdicts.csv,SUPERSEDED by S5e_sex_stratified_verdicts.csv (CI-bound wording)
+S7_FINAL_assumption_verdicts_RAW.csv,SUPERSEDED by S7_FINAL_assumption_verdicts_RAW_v5.csv (its pre-registered rows are kept unchanged as the v5 base)
+S7_FINAL_assumption_verdicts_RAW_v2.csv,SUPERSEDED by S7_FINAL_assumption_verdicts_RAW_v5.csv
+S7_FINAL_assumption_verdicts_RAW_v3.csv,SUPERSEDED by S7_FINAL_assumption_verdicts_RAW_v5.csv
+S7_FINAL_assumption_verdicts_RAW_v4.csv,SUPERSEDED by S7_FINAL_assumption_verdicts_RAW_v5.csv
+S7_FINAL_assumption_verdicts_RAW_v5.csv,SUPERSEDED by S7_FINAL_assumption_verdicts_RAW_v6.csv (v5 rows kept; post-hoc row 22 OPEN item resolved; audit rows R1/R2/X1/R3 added)
+S8_tipping_points_signed.csv,SUPERSEDED by S8_tipping_points_signed_v2.csv (values unchanged and verified against raw R13; alleles/SEs added; v4 columns marked DEPRECATED)

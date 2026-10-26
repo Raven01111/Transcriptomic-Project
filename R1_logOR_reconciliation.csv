@@ -1,0 +1,9 @@
+locus,rsid,endpoint,ref,alt,beta_alt,se,pval,OR_alt,OR_alt_95lo,OR_alt_95hi,af_cases,af_controls,matches_S8_value,matches_S7_replication,source
+MUC5B,rs35705950,ILD_ENDPOINTS,G,T,0.811937,0.0239493,6.15177e-252,2.2523,2.149,2.3605,0.2027,0.100975,False,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+DSP,rs2076295,ILD_ENDPOINTS,T,G,0.130605,0.018364,1.1434e-12,1.1395,1.0992,1.1813,0.411241,0.382134,False,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+MUC5B,rs35705950,ILD_INSUFFICIENCY,G,T,0.863491,0.053649,2.75677e-58,2.3714,2.1347,2.6344,0.215642,0.100975,False,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+DSP,rs2076295,ILD_INSUFFICIENCY,T,G,0.138129,0.0421787,0.00105718,1.1481,1.057,1.2471,0.416414,0.382134,False,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+MUC5B,rs35705950,IPF,G,T,1.03614,0.0320424,2.15278e-229,2.8183,2.6468,3.001,0.249661,0.100975,True,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+DSP,rs2076295,IPF,T,G,0.158212,0.0265603,2.57371e-09,1.1714,1.112,1.234,0.417698,0.382134,True,False,FinnGen R13 raw (finngen_r13_leadrows.tsv md5 ff97965ea5528e2e277e4642bcf5f93b)
+MUC5B,rs35705950,S7 v5 replication row (pre-registered),,,1.60342,0.191,3.7e-17,4.97,3.42,7.23,,,False,True,S7 v5; not reproduced by any R13 IPF/ILD endpoint; implied SE 6.0x R13 IPF -> different (smaller) dataset; source unidentified
+DSP,rs2076295,S7 v5 replication row (pre-registered),,,0.223144,0.0383,1.5e-08,0.80 (allele unstated; = 1.25 for G if T),0.74,0.86,,,False,True,S7 v5; not reproduced by any R13 IPF/ILD endpoint; implied SE 1.4x R13 IPF; source unidentified
